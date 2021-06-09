@@ -1,2 +1,1 @@
-# treehouse-project
- My First Project
+# Treehouse First Project
